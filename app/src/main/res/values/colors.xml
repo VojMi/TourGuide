@@ -1,0 +1,10 @@
+
+<resources>
+    <color name="colorPrimary">#616161</color>
+    <color name="colorDark">#000000</color>
+    <color name="background">#757575</color>
+    <color name="cat_1_col">#BDBDBD</color>
+    <color name="cat_2_col">#9E9E9E</color>
+    <color name="cat_3_col">#BDBDBD</color>
+    <color name="cat_4_col">#9E9E9E</color>
+</resources>
