@@ -4,4 +4,4 @@ This application was developed as a part of Android Basics Nanodegree by Google 
 This patiently designed application consist the most important tourist attractions in city Brno (CZ). Cathegories can be changed via ViewPager and particular items are stored in ListView. 
 After clicking on item, the location is displayed via Google Maps intent. 
 ## Screenshots
-![preview](../master/Screenshot_1566854764.png "TourGuide")![preview](../master/Screenshot_1566854822.png "TourGuide")![preview](../master/Screenshot_1566854928.png "TourGuide")!
+![preview](../master/Screenshot_1566854764.png "TourGuide")![preview](../master/Screenshot_1566854822.png "TourGuide")![preview](../master/Screenshot_1566854928.png "TourGuide")
